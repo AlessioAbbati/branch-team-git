@@ -9,5 +9,6 @@
     <body>
         <h1 class="text-center">Buongiornissimo a tuttissimi</h1>
         {{-- <img src="{{ Vite::asset('resources/img/picsum30.jpg') }}" alt=""> --}}
+        <footer>sono il footer</footer>
     </body>
 </html>
